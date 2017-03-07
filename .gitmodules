@@ -1,0 +1,3 @@
+[submodule "simulink-ardupilot-bridge"]
+	path = simulink-ardupilot-bridge
+	url = git@github.com:icedraco/simucopter-bridge.git
